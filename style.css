@@ -1,0 +1,23 @@
+#art{
+    display: table;
+    border-spacing: 2px;
+    background-color: black;
+    border: 2px solid black;
+}
+.rows{
+    display:table-row;
+
+}
+.pixel{
+    display: table-cell;
+    background-color: white;
+    width: 35px;
+    height: 35px;
+    border: 1px solid black;
+}
+.pen{
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border: 2px solid black;
+}
